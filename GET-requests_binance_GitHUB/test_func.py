@@ -59,12 +59,12 @@ print(response)
 
 """""
 ответ на споте без time
-[Running] python -u "c:\Work\Blockchain\GitHub\MCS\Python\ДЗ Klimov2_algo\01 Public API binance\код от Климова\lesson 1\test_func.py"
+[Running] python -u "c:\Work\Blockchain\GitHub\test_func.py"
 {'symbol': 'AXSUSDT', 'price': '7.20000000'}
 
 [Done] exited with code=0 in 1.626 seconds
 
-[Running] python -u "c:\Work\Blockchain\GitHub\MCS\Python\ДЗ Klimov2_algo\01 Public API binance\код от Климова\lesson 1\test_func.py"
+[Running] python -u "c:\Work\Blockchain\GitHub\test_func.py"
 {'symbol': 'AXSUSDT', 'price': '7.20300', 'time': 1704710938109}
 
 [Done] exited with code=0 in 2.176 seconds

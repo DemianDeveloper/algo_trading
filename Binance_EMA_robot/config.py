@@ -1,0 +1,5 @@
+api_key = 'IegOXt6hxjfHmjpxLteeVU09w5EMhI4QW8LeuZIIWkUqM6mDugv7QaT6KMXMWkmr'
+secret_key = 'Du7xMvOIxxq238HgEKPWkgKosgPvdzNfbKwIj6ALkno3nZnocvupFmHxvpebWsHS'
+
+bybit_api_key = 'dKCy5UOOc2kU0pKQGL'
+bybit_secret_key = '3GJHyfUsV9P9EyZUhegIswbd8rkKXStiAQoh'
